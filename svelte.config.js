@@ -1,4 +1,4 @@
-export default config = {
+export const config = {
   kit: {
     target: '#svelte',
     vite: {
